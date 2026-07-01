@@ -1,0 +1,10 @@
+langchain-core
+langchain
+langchain-groq
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-huggingface
+python-dotenv
+numpy
+scikit-learn
